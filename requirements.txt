@@ -1,2 +1,6 @@
-ollama
+ollama mistral
 pandas
+SQLite
+python
+
+
